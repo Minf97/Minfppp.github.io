@@ -319,7 +319,8 @@ module.exports = {
       "sidebarDepth": 1,
       "children": [
         "README.md",
-        "ref-type.md"
+        "ref-type.md",
+        "the-next-tick.md"
       ]
     }
   ],
